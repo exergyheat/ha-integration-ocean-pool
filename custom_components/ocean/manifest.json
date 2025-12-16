@@ -1,0 +1,11 @@
+{
+  "domain": "ocean",
+  "name": "OCEAN Mining Pool",
+  "codeowners": ["@dylan"],
+  "config_flow": true,
+  "documentation": "https://github.com/yourusername/ocean-integration",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/yourusername/ocean-integration/issues",
+  "requirements": ["beautifulsoup4==4.12.2"],
+  "version": "0.1.0"
+}
