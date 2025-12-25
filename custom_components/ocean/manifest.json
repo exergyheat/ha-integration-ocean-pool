@@ -1,11 +1,11 @@
 {
   "domain": "ocean",
-  "name": "OCEAN Mining Pool",
-  "codeowners": ["@dylan"],
+  "name": "Exergy - OCEAN Mining Pool",
+  "codeowners": ["@tronsington"],
   "config_flow": true,
-  "documentation": "https://github.com/yourusername/ocean-integration",
+  "documentation": "https://github.com/exergyheat/ha-integration-ocean-pool",
   "iot_class": "cloud_polling",
-  "issue_tracker": "https://github.com/yourusername/ocean-integration/issues",
+  "issue_tracker": "https://github.com/exergyheat/ha-integration-ocean-pool/issues",
   "requirements": ["beautifulsoup4==4.12.2"],
   "version": "0.1.0"
 }

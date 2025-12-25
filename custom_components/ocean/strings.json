@@ -2,7 +2,7 @@
   "config": {
     "step": {
       "user": {
-        "title": "Set up OCEAN Mining Pool",
+        "title": "Set up Exergy - OCEAN Mining Pool",
         "description": "Enter your OCEAN Mining Pool username (Bitcoin address or worker identifier)",
         "data": {
           "username": "Username",
