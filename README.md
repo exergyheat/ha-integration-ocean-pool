@@ -2,7 +2,7 @@
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg)](https://github.com/hacs/integration)
 [![GitHub Release](https://img.shields.io/github/release/exergyheat/ha-integration-ocean-pool.svg)](https://github.com/exergyheat/ha-integration-ocean-pool/releases)
-[![License](https://img.shields.io/github/license/exergyheat/ha-integration-ocean-pool.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Monitor your OCEAN Mining Pool account and workers directly in Home Assistant.
 
