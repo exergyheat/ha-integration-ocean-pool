@@ -1,6 +1,6 @@
 {
   "domain": "ocean",
-  "name": "Exergy - Public Pool",
+  "name": "Exergy - OCEAN Pool",
   "codeowners": ["@tronsington"],
   "config_flow": true,
   "documentation": "https://github.com/exergyheat/ha-integration-ocean-pool",
