@@ -1,4 +1,4 @@
-# Exergy - Public Pool
+# Exergy - OCEAN Pool
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg)](https://github.com/hacs/integration)
 [![GitHub Release](https://img.shields.io/github/release/exergyheat/ha-integration-ocean-pool.svg)](https://github.com/exergyheat/ha-integration-ocean-pool/releases)
@@ -33,7 +33,7 @@ Monitor your OCEAN Mining Pool account and workers directly in Home Assistant.
 2. Click the three dots in the top right corner
 3. Select "Custom repositories"
 4. Add `https://github.com/exergyheat/ha-integration-ocean-pool` as an Integration
-5. Search for "Exergy - Public Pool" in HACS
+5. Search for "Exergy - OCEAN Pool" in HACS
 6. Install the integration
 7. Restart Home Assistant
 
@@ -46,7 +46,7 @@ Monitor your OCEAN Mining Pool account and workers directly in Home Assistant.
 
 1. Go to **Settings** > **Devices & Services**
 2. Click **+ Add Integration**
-3. Search for "Exergy - Public Pool"
+3. Search for "Exergy - OCEAN Pool"
 4. Enter your OCEAN username (Bitcoin address or worker identifier)
 5. Optionally adjust the update interval (default: 60 seconds)
 
